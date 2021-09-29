@@ -1,0 +1,6 @@
+public class PracticePullRequest {
+  public int hereIsAField;
+  public PracticePullRequest() {
+     moreCode.invokeMethod();
+  }
+}
